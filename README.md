@@ -25,7 +25,7 @@ Visit the live demo at: [Digital Certificate Manager](https://harshitajain212.gi
 
 2. Navigate to the project directory:
    ```bash
-   cd GMCertificate
+   cd digital-certificate-manager
    ```
 
 3. Open the project in your preferred code editor
