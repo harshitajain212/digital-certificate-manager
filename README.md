@@ -12,7 +12,7 @@ A modern, responsive web application for displaying and managing digital certifi
 
 ## Live Demo
 
-Visit the live demo at: [GiveMyCertificate GitHub Pages](https://[your-username].github.io/GMCertificate/)
+Visit the live demo at: [GiveMyCertificate GitHub Pages](https://harshitajain212.github.io/GMCertificate/)
 
 ## Getting Started
 
@@ -20,7 +20,7 @@ Visit the live demo at: [GiveMyCertificate GitHub Pages](https://[your-username]
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[your-username]/GMCertificate.git
+   git clone https://github.com/harshitajain212/GMCertificate.git
    ```
 
 2. Navigate to the project directory:
