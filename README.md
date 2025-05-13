@@ -1,4 +1,4 @@
-# GiveMyCertificate
+# Digital Certificate Manager
 
 A modern, responsive web application for displaying and managing digital certificates. This project allows users to view, download, and share their certificates, including direct integration with LinkedIn.
 
@@ -12,7 +12,7 @@ A modern, responsive web application for displaying and managing digital certifi
 
 ## Live Demo
 
-Visit the live demo at: [GiveMyCertificate GitHub Pages](https://harshitajain212.github.io/GMCertificate/)
+Visit the live demo at: [Digital Certificate Manager](https://harshitajain212.github.io/digital-certificate-manager/)
 
 ## Getting Started
 
@@ -20,7 +20,7 @@ Visit the live demo at: [GiveMyCertificate GitHub Pages](https://harshitajain212
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/harshitajain212/GMCertificate.git
+   git clone https://github.com/harshitajain212/digital-certificate-manager.git
    ```
 
 2. Navigate to the project directory:
@@ -40,11 +40,11 @@ Visit the live demo at: [GiveMyCertificate GitHub Pages](https://harshitajain212
      python -m http.server 8000
      ```
 
-5. Open your browser and visit `http://localhost:8000/certificate.html`
+5. Open your browser and visit `http://localhost:8000`
 
 ## Project Structure
 
-- `certificate.html` - Main HTML file containing the certificate layout
+- `index.html` - Main HTML file containing the certificate layout
 - `styles.css` - CSS styles for the certificate and UI components
 - `script.js` - JavaScript code for handling interactions and LinkedIn integration
 - `certificate-image.jpeg` - Sample certificate image
